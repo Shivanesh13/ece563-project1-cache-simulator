@@ -1,0 +1,1 @@
+Size: 131072B, Assoc: 2, Miss Rate: 0.0259

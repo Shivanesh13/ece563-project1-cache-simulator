@@ -1,0 +1,1 @@
+Size: 4096B, Assoc: 8, L1 Miss Rate: 0.0537, L2 Miss Rate: 0.5131

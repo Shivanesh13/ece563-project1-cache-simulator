@@ -1,0 +1,1 @@
+PREF_N: 4, PREF_M: 4, L1 Miss Rate: 0.001

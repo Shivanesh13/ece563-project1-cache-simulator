@@ -1,0 +1,1 @@
+Size: 4096B, Block Size: 64B, L1 Miss Rate: 0.0619

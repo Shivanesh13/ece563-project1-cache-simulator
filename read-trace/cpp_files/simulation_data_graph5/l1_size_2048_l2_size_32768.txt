@@ -1,0 +1,1 @@
+L1 Size: 2048B, L2 Size: 32768B, L1 Miss Rate: 0.0962, L2 Miss Rate: 0.2728

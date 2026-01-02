@@ -1,0 +1,1 @@
+Size: 2048B, Assoc: 1, Miss Rate: 0.1477
